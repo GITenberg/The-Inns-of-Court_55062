@@ -1,5 +1,5 @@
 _repo: The-Inns-of-Court_55062
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Home, Gordon
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '2778'
     url: http://www.gutenberg.org/2009/agents/2778
     wikipedia: http://en.wikipedia.org/wiki/Gordon_Home
+covers:
+- cover_type: archival
+  image_path: 55062-h/images/cover_lg.jpg
 creator:
   author:
     agent_name: Headlam, Cecil
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '43693'
     url: http://www.gutenberg.org/2009/agents/43693
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55062#The-Inns-of-Court
 gutenberg_issued: '2017-07-06'
 gutenberg_type: Text
 identifiers:
